@@ -27,8 +27,8 @@ def replace_chunk(content, marker, chunk, inline=False):
 def make_query(after_cursor=None):
     return """
 query {
-    viewer {
-    repositoriesContributedTo(includeUserRepositories: true, last: 100) {
+  viewer {
+    repositoriesContributedTo(includeUserRepositories: true, first: 100, after: AFTER) {
       pageInfo {
         hasNextPage
         endCursor
@@ -67,7 +67,7 @@ def fetch_recent_contributions(oauth_token):
                     "repo": repo["name"],
                     "repo_url": repo["url"],
                     "description": repo["description"],
-                    "updated_at": repo["UpdatedAt"].split("T")[0],
+                    "updated_at": repo["updatedAt"].split("T")[0],
                 }
             )
         has_next_page = data["data"]["viewer"]["repositoriesContributedTo"]["pageInfo"][
