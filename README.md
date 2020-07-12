@@ -7,7 +7,7 @@
 More [recent contributions](https://github.com/M157q/M157q/blob/main/recent_contributions.md)
 </td><td valign="top">
 
-### On my blog
+### Recent blog posts
 <!-- blog starts -->
 * [Change from Travis CI Build Matrix to Build Stages](https://blog.m157q.tw/posts/2020/07/11/change-from-travis-ci-build-matrix-to-build-stages/) - 2020-07-11
 * [Make Google Cloud CDN serve gzip compressed content for Nginx server](https://blog.m157q.tw/posts/2020/07/11/make-google-cloud-cdn-serve-gzip-compressed-content-for-nginx-server/) - 2020-07-11
