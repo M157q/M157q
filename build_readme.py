@@ -24,7 +24,7 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 
-def make_query(after_cursor=None):
+def make_recent_contributions_query(after_cursor=None):
     return """
 query {
   viewer {
@@ -55,7 +55,7 @@ def fetch_recent_contributions(oauth_token):
 
     while has_next_page:
         data = client.execute(
-            query=make_query(after_cursor),
+            query=make_recent_contributions_query(after_cursor),
             headers={"Authorization": "Bearer {}".format(oauth_token)},
         )
         print()
@@ -77,12 +77,36 @@ def fetch_recent_contributions(oauth_token):
     return recent_contributions
 
 
-def fetch_tils():
-    sql = "select title, url, created_utc from til order by created_utc desc limit 5"
-    return httpx.get(
-        "https://til.simonwillison.net/til.json",
-        params={"sql": sql, "_shape": "array",},
-    ).json()
+def fetch_tils(oauth_token):
+    query = """
+	query {
+	  repository(name: "m157q.github.io", owner: "M157q") {
+            issues(orderBy: {field: UPDATED_AT, direction: DESC}, first: 5, states: OPEN) {
+	      nodes {
+		url
+		updatedAt
+		title
+	      }
+	    }
+	  }
+	}
+    """
+    data = client.execute(
+	query=query,
+	headers={"Authorization": "Bearer {}".format(oauth_token)},
+    )
+
+    tils = []
+    for til in data["data"]["repository"]["issues"]["nodes"]:
+        tils.append(
+            {
+                "title": til["title"],
+                "url": til["url"],
+                "updated_at": til["updatedAt"],
+            }
+        )
+
+    return tils
 
 
 def fetch_blog_entries():
@@ -131,13 +155,13 @@ if __name__ == "__main__":
     project_recent_contributions.open("w").write(project_recent_contributions_content)
 
     # Fetch TILs
-    tils = fetch_tils()
+    tils = fetch_tils(GITHUB_TOKEN)
     tils_md = "\n".join(
         [
-            "* [{title}]({url}) - {created_at}".format(
+            "* [{title}]({url}) - {updated_at}".format(
                 title=til["title"],
                 url=til["url"],
-                created_at=til["created_utc"].split("T")[0],
+                updated_at=til["updated_at"].split("T")[0],
             )
             for til in tils
         ]
