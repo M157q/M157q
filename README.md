@@ -1,10 +1,10 @@
 <table><tr><td valign="top">
 
-### Recent releases
-<!-- recent_releases starts -->
+### Recent contributions
+<!-- recent_contributions starts -->
 
-<!-- recent_releases ends -->
-More [recent releases](https://github.com/M157q/M157q/blob/main/releases.md)
+<!-- recent_contributions ends -->
+More [recent contributions](https://github.com/M157q/M157q/blob/main/recent_contributions.md)
 </td><td valign="top">
 
 ### On my blog
