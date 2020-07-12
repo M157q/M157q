@@ -103,7 +103,7 @@ def fetch_tils():
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://simonwillison.net/atom/entries/")["entries"]
+    entries = feedparser.parse("https://blog.m157q.tw/feeds/category.note.atom.xml")["entries"]
     return [
         {
             "title": entry["title"],
