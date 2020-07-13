@@ -80,12 +80,14 @@ def fetch_recent_contributions(oauth_token):
 def fetch_tils(oauth_token):
     query = """
 	query {
-	  repository(name: "m157q.github.io", owner: "M157q") {
-            issues(orderBy: {field: UPDATED_AT, direction: DESC}, first: 5, states: OPEN) {
-	      nodes {
-		url
-		updatedAt
-		title
+	  viewer {
+	    repository(name: "m157q.github.io") {
+	      issues(filterBy: {createdBy: "M157q", states: OPEN}, orderBy: {field: UPDATED_AT, direction: DESC}, first: 5, states: OPEN) {
+		nodes {
+		  url
+		  updatedAt
+		  title
+		}
 	      }
 	    }
 	  }
@@ -95,9 +97,12 @@ def fetch_tils(oauth_token):
 	query=query,
 	headers={"Authorization": "Bearer {}".format(oauth_token)},
     )
+    print()
+    print(json.dumps(data, indent=4))
+    print()
 
     tils = []
-    for til in data["data"]["repository"]["issues"]["nodes"]:
+    for til in data["data"]["viewer"]["repository"]["issues"]["nodes"]:
         tils.append(
             {
                 "title": til["title"],
