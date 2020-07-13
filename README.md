@@ -3,8 +3,8 @@
 ### Recent contributions
 <!-- recent_contributions starts -->
 * [m157q.github.io](https://github.com/M157q/m157q.github.io) - 2020-07-13
-* [M157q](https://github.com/M157q/M157q) - 2020-07-12
-* [zdict](https://github.com/zdict/zdict) - 2020-07-11
+* [zdict](https://github.com/zdict/zdict) - 2020-07-13
+* [M157q](https://github.com/M157q/M157q) - 2020-07-13
 * [gettitle](https://github.com/M157q/gettitle) - 2020-06-18
 * [sgl](https://github.com/M157q/sgl) - 2020-06-18
 <!-- recent_contributions ends -->

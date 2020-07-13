@@ -5,10 +5,10 @@ All <!-- recent_contributions_count starts -->8<!-- recent_contributions_count e
 <!-- recent_contributions starts -->
 * **[m157q.github.io](https://github.com/M157q/m157q.github.io)** - 2020-07-13
 <br>Just another blog.
-* **[M157q](https://github.com/M157q/M157q)** - 2020-07-12
-<br>https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
-* **[zdict](https://github.com/zdict/zdict)** - 2020-07-11
+* **[zdict](https://github.com/zdict/zdict)** - 2020-07-13
 <br>The last online dictionary framework you need. (?)
+* **[M157q](https://github.com/M157q/M157q)** - 2020-07-13
+<br>https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 * **[gettitle](https://github.com/M157q/gettitle)** - 2020-06-18
 <br>Get webpage title(s) by url(s) from terminal.
 * **[sgl](https://github.com/M157q/sgl)** - 2020-06-18
