@@ -28,7 +28,7 @@ def make_recent_contributions_query(after_cursor=None):
     return """
 query {
   viewer {
-    repositoriesContributedTo(includeUserRepositories: true, first: 100, after: AFTER) {
+    repositoriesContributedTo(privacy: PUBLIC, includeUserRepositories: true, first: 100, after: AFTER) {
       pageInfo {
         hasNextPage
         endCursor
