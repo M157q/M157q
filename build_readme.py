@@ -1,6 +1,5 @@
 from python_graphql_client import GraphqlClient
 import feedparser
-import httpx
 import json
 import pathlib
 import re
