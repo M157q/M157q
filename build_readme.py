@@ -39,6 +39,7 @@ query {
         url
         updatedAt
         description
+        isFork
       }
     }
   }
@@ -62,7 +63,8 @@ def fetch_recent_contributions(oauth_token):
         print(json.dumps(data, indent=4))
         print()
         for repo in data["data"]["viewer"]["repositoriesContributedTo"]["nodes"]:
-            if repo["nameWithOwner"] == "M157q/M157q":
+            if repo["isFork"]:
+                # Skip forked repo
                 continue
 
             recent_contributions.append(
