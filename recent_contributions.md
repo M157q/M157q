@@ -3,12 +3,12 @@
 All <!-- recent_contributions_count starts -->9<!-- recent_contributions_count ends --> of my recent contributions, ordered by the date DESC.
 
 <!-- recent_contributions starts -->
+* **[M157q](https://github.com/M157q/M157q)** - 2020-07-14
+<br>https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 * **[m157q.github.io](https://github.com/M157q/m157q.github.io)** - 2020-07-13
 <br>Just another blog.
 * **[zdict](https://github.com/zdict/zdict)** - 2020-07-13
 <br>The last online dictionary framework you need. (?)
-* **[M157q](https://github.com/M157q/M157q)** - 2020-07-13
-<br>https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 * **[twitter_scraping](https://github.com/M157q/twitter_scraping)** - 2020-07-13
 <br>Grab all a user's tweets (and get past 3200 limit)
 * **[gettitle](https://github.com/M157q/gettitle)** - 2020-06-18
