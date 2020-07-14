@@ -35,7 +35,7 @@ query {
       }
       totalCount
       nodes {
-        name
+        nameWithOwner
         url
         updatedAt
         description
@@ -62,9 +62,12 @@ def fetch_recent_contributions(oauth_token):
         print(json.dumps(data, indent=4))
         print()
         for repo in data["data"]["viewer"]["repositoriesContributedTo"]["nodes"]:
+            if repo["nameWithOwner"] == "M157q/M157q":
+                continue
+
             recent_contributions.append(
                 {
-                    "repo": repo["name"],
+                    "repo": repo["nameWithOwner"],
                     "repo_url": repo["url"],
                     "description": repo["description"],
                     "updated_at": repo["updatedAt"].split("T")[0],
