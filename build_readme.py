@@ -86,10 +86,10 @@ def fetch_tils(oauth_token):
 	query {
 	  viewer {
 	    repository(name: "m157q.github.io") {
-	      issues(filterBy: {createdBy: "M157q", states: OPEN}, orderBy: {field: UPDATED_AT, direction: DESC}, first: 5, states: OPEN) {
+	      issues(filterBy: {createdBy: "M157q", states: OPEN}, orderBy: {field: CREATED_AT, direction: DESC}, first: 5, states: OPEN) {
 		nodes {
 		  url
-		  updatedAt
+		  createdAt
 		  title
 		}
 	      }
@@ -111,7 +111,7 @@ def fetch_tils(oauth_token):
             {
                 "title": til["title"],
                 "url": til["url"],
-                "updated_at": til["updatedAt"],
+                "created_at": til["createdAt"],
             }
         )
 
@@ -167,10 +167,10 @@ if __name__ == "__main__":
     tils = fetch_tils(GITHUB_TOKEN)
     tils_md = "\n".join(
         [
-            "* [{title}]({url}) - {updated_at}".format(
+            "* [{title}]({url}) - {created_at}".format(
                 title=til["title"],
                 url=til["url"],
-                updated_at=til["updated_at"].split("T")[0],
+                created_at=til["created_at"].split("T")[0],
             )
             for til in tils
         ]
