@@ -5,10 +5,10 @@ All <!-- recent_contributions_count starts -->6<!-- recent_contributions_count e
 <!-- recent_contributions starts -->
 * **[M157q/m157q.github.io](https://github.com/M157q/m157q.github.io)** - 2020-07-16
 <br>Just another blog.
+* **[M157q/gettitle](https://github.com/M157q/gettitle)** - 2020-07-16
+<br>Get webpage title(s) by url(s) from terminal.
 * **[zdict/zdict](https://github.com/zdict/zdict)** - 2020-07-13
 <br>The last online dictionary framework you need. (?)
-* **[M157q/gettitle](https://github.com/M157q/gettitle)** - 2020-06-18
-<br>Get webpage title(s) by url(s) from terminal.
 * **[M157q/sgl](https://github.com/M157q/sgl)** - 2020-06-18
 <br>A simple crawler for https://rent.591.com.tw/
 * **[M157q/hor2vec](https://github.com/M157q/hor2vec)** - 2020-06-12
