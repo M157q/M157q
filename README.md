@@ -24,7 +24,7 @@ More on [blog.m157q.tw](https://blog.m157q.tw/)
 
 ### TIL
 <!-- tils starts -->
-* [Re: [問卦] 百頁豆腐到底騙了多少人](https://github.com/M157q/m157q.github.io/issues/1140) - 2020-07-16
+* [Re: [問卦] 百頁豆腐到底騙了多少人 - 看板 Gossiping - 批踢踢實業坊](https://github.com/M157q/m157q.github.io/issues/1141) - 2020-07-16
 * [口水滿天飛！台灣媒體如何變成財團的「官方粉絲團」？【記者真心話】Vol.5 - YouTube](https://github.com/M157q/m157q.github.io/issues/1139) - 2020-07-14
 * [pgjones/quart](https://github.com/M157q/m157q.github.io/issues/1135) - 2020-07-14
 * [【跨國調查】製毒、走私、銷售，台灣毒梟「一條龍」串起安非他命的亞洲販運鏈](https://github.com/M157q/m157q.github.io/issues/1134) - 2020-07-14
