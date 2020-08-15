@@ -3,7 +3,7 @@
 All <!-- recent_contributions_count starts -->6<!-- recent_contributions_count ends --> of my recent contributions, ordered by the date DESC.
 
 <!-- recent_contributions starts -->
-* **[zdict/zdict](https://github.com/zdict/zdict)** - 2020-08-12
+* **[zdict/zdict](https://github.com/zdict/zdict)** - 2020-08-15
 <br>The last online dictionary framework you need. (?)
 * **[M157q/gettitle](https://github.com/M157q/gettitle)** - 2020-08-04
 <br>Get webpage title(s) by url(s) from terminal.
