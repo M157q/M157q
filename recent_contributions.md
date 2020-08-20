@@ -3,10 +3,10 @@
 All <!-- recent_contributions_count starts -->6<!-- recent_contributions_count ends --> of my recent contributions, ordered by the date DESC.
 
 <!-- recent_contributions starts -->
+* **[M157q/m157q.github.io](https://github.com/M157q/m157q.github.io)** - 2020-08-20
+<br>Just another blog.
 * **[zdict/zdict](https://github.com/zdict/zdict)** - 2020-08-20
 <br>The last online dictionary framework you need. (?)
-* **[M157q/m157q.github.io](https://github.com/M157q/m157q.github.io)** - 2020-08-17
-<br>Just another blog.
 * **[M157q/gettitle](https://github.com/M157q/gettitle)** - 2020-08-04
 <br>Get webpage title(s) by url(s) from terminal.
 * **[M157q/sgl](https://github.com/M157q/sgl)** - 2020-06-18
