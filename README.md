@@ -24,11 +24,11 @@ More on [blog.m157q.tw](https://blog.m157q.tw/)
 
 ### TIL
 <!-- tils starts -->
+* [Motoko, a programming language for building directly on the internet - Stack Overflow Blog](https://github.com/M157q/m157q.github.io/issues/1179) - 2020-08-27
 * [GitHub - MitMaro/git-interactive-rebase-tool: Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.](https://github.com/M157q/m157q.github.io/issues/1178) - 2020-08-20
 * [全球第一個被COVID-19「亡國」的國家：赫特河公國 | DQ 地球圖輯隊 帶你看透全世界](https://github.com/M157q/m157q.github.io/issues/1177) - 2020-08-14
 * [從鍋內到鍋外，看見電鍋與臺灣的羈絆－科技大觀園](https://github.com/M157q/m157q.github.io/issues/1176) - 2020-08-14
 * [GitHub - cli/cli: GitHub’s official command line tool](https://github.com/M157q/m157q.github.io/issues/1175) - 2020-08-12
-* [GitHub - abhisheknaiidu/awesome-github-profile-readme: 😎 A curated list of awesome Github Profile READMEs 📝](https://github.com/M157q/m157q.github.io/issues/1174) - 2020-08-01
 <!-- tils ends -->
 More on [here](https://github.com/M157q/m157q.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 </td></tr></table>
