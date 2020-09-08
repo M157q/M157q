@@ -24,11 +24,11 @@ More on [blog.m157q.tw](https://blog.m157q.tw/)
 
 ### TIL
 <!-- tils starts -->
+* [【線上博弈帝國追蹤1】博弈代工轉向洗錢代工，奕智博如何一週洗白50億？ - 報導者 The Reporter](https://github.com/M157q/m157q.github.io/issues/1197) - 2020-09-08
+* [解碼最神秘的獨角獸 Palantir，公開上市前的大體檢！| 科技巨頭解碼#18 | Miula — vocus](https://github.com/M157q/m157q.github.io/issues/1196) - 2020-09-08
 * [GitHub - Anorov/cloudflare-scrape: A Python module to bypass Cloudflare's anti-bot page.](https://github.com/M157q/m157q.github.io/issues/1195) - 2020-09-08
 * [增肌蛋白質大評比｜15種你最常取得到的蛋白質種類，哪些對健身最有幫助?](https://github.com/M157q/m157q.github.io/issues/1189) - 2020-09-08
 * [《一週工作四小時》](https://github.com/M157q/m157q.github.io/issues/1188) - 2020-09-06
-* [Ashley McNamara - The Thing About Burnout - YouTube](https://github.com/M157q/m157q.github.io/issues/1181) - 2020-08-30
-* [Motoko, a programming language for building directly on the internet - Stack Overflow Blog](https://github.com/M157q/m157q.github.io/issues/1179) - 2020-08-27
 <!-- tils ends -->
 More on [here](https://github.com/M157q/m157q.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 </td></tr></table>
