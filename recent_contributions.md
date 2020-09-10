@@ -1,6 +1,6 @@
 # Recent contributions
 
-All <!-- recent_contributions_count starts -->7<!-- recent_contributions_count ends --> of my recent contributions, ordered by the date DESC.
+All <!-- recent_contributions_count starts -->8<!-- recent_contributions_count ends --> of my recent contributions, ordered by the date DESC.
 
 <!-- recent_contributions starts -->
 * **[M157q/gettitle](https://github.com/M157q/gettitle)** - 2020-09-08
@@ -11,6 +11,8 @@ All <!-- recent_contributions_count starts -->7<!-- recent_contributions_count e
 <br>Run (headless) Google Chrome on Heroku
 * **[M157q/sgl](https://github.com/M157q/sgl)** - 2020-08-28
 <br>A simple crawler for https://rent.591.com.tw/
+* **[heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver)** - 2020-08-27
+<br>Installs chromedriver in a Heroku slug
 * **[zdict/zdict](https://github.com/zdict/zdict)** - 2020-08-21
 <br>The last online dictionary framework you need. (?)
 * **[M157q/hor2vec](https://github.com/M157q/hor2vec)** - 2020-06-12
