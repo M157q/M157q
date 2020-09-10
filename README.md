@@ -24,11 +24,11 @@ More on [blog.m157q.tw](https://blog.m157q.tw/)
 
 ### TIL
 <!-- tils starts -->
+* [GitOps 帶來的痛點與反思 | Hwchiu Learning Note](https://github.com/M157q/m157q.github.io/issues/1199) - 2020-09-10
 * [【產品團隊甘苦談】如何處理各種「隕石開發」的緊急要求？. 我待過幾個不同的產品團隊，團隊文化分別偏向台灣、香港、日本（隕石的故鄉），都是在… | by Anne Hsiao | 3PM LAB | Sep, 2020 | Medium](https://github.com/M157q/m157q.github.io/issues/1198) - 2020-09-10
 * [【線上博弈帝國追蹤1】博弈代工轉向洗錢代工，奕智博如何一週洗白50億？ - 報導者 The Reporter](https://github.com/M157q/m157q.github.io/issues/1197) - 2020-09-08
 * [解碼最神秘的獨角獸 Palantir，公開上市前的大體檢！| 科技巨頭解碼#18 | Miula — vocus](https://github.com/M157q/m157q.github.io/issues/1196) - 2020-09-08
 * [GitHub - Anorov/cloudflare-scrape: A Python module to bypass Cloudflare's anti-bot page.](https://github.com/M157q/m157q.github.io/issues/1195) - 2020-09-08
-* [增肌蛋白質大評比｜15種你最常取得到的蛋白質種類，哪些對健身最有幫助?](https://github.com/M157q/m157q.github.io/issues/1189) - 2020-09-08
 <!-- tils ends -->
 More on [here](https://github.com/M157q/m157q.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 </td></tr></table>
