@@ -3,6 +3,8 @@
 All <!-- recent_contributions_count starts -->8<!-- recent_contributions_count ends --> of my recent contributions, ordered by the date DESC.
 
 <!-- recent_contributions starts -->
+* **[zdict/zdict](https://github.com/zdict/zdict)** - 2020-09-13
+<br>The last online dictionary framework you need. (?)
 * **[M157q/m157q.github.io](https://github.com/M157q/m157q.github.io)** - 2020-09-12
 <br>Just another blog.
 * **[M157q/gettitle](https://github.com/M157q/gettitle)** - 2020-09-11
@@ -13,8 +15,6 @@ All <!-- recent_contributions_count starts -->8<!-- recent_contributions_count e
 <br>A simple crawler for https://rent.591.com.tw/
 * **[heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver)** - 2020-08-27
 <br>Installs chromedriver in a Heroku slug
-* **[zdict/zdict](https://github.com/zdict/zdict)** - 2020-08-21
-<br>The last online dictionary framework you need. (?)
 * **[M157q/hor2vec](https://github.com/M157q/hor2vec)** - 2020-06-12
 <br>Change your horizontal pure text to vertical with some options.
 * **[M157q/dotfiles](https://github.com/M157q/dotfiles)** - 2020-06-05
