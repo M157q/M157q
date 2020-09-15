@@ -2,8 +2,8 @@
 
 ### Recent contributions
 <!-- recent_contributions starts -->
+* [zdict/zdict](https://github.com/zdict/zdict) - 2020-09-15
 * [M157q/m157q.github.io](https://github.com/M157q/m157q.github.io) - 2020-09-14
-* [zdict/zdict](https://github.com/zdict/zdict) - 2020-09-14
 * [M157q/gettitle](https://github.com/M157q/gettitle) - 2020-09-11
 * [heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome) - 2020-09-01
 * [M157q/sgl](https://github.com/M157q/sgl) - 2020-08-28
