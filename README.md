@@ -24,11 +24,11 @@ More on [blog.m157q.tw](https://blog.m157q.tw/)
 
 ### TIL
 <!-- tils starts -->
+* [Building a TRUE 4k home cinema projector (it’s awesome) - YouTube](https://github.com/M157q/m157q.github.io/issues/1207) - 2020-09-15
 * [區塊鏈是一個不知道要解決什麼問題的解決方案 | T客邦](https://github.com/M157q/m157q.github.io/issues/1206) - 2020-09-13
 * [看我如何再一次駭進 Facebook，一個在 MobileIron MDM 上的遠端程式碼執行漏洞! | DEVCORE 戴夫寇爾](https://github.com/M157q/m157q.github.io/issues/1205) - 2020-09-13
 * [Instagram, Youtube 的擋廣告前端網站 Bibliogram 和 Invidious | 噴火獸號：裴列恩之艦](https://github.com/M157q/m157q.github.io/issues/1204) - 2020-09-11
 * [別猶豫了，今天就上 Github 參與開源專案吧！. 今天我想以我自身的經驗，跟大家分享 該怎麼找到適合的開源專案 以及… | by Larry Lu | Starbugs Weekly 星巴哥技術專欄 | Sep, 2020 | Medium](https://github.com/M157q/m157q.github.io/issues/1203) - 2020-09-11
-* [GitOps 帶來的痛點與反思 | Hwchiu Learning Note](https://github.com/M157q/m157q.github.io/issues/1199) - 2020-09-10
 <!-- tils ends -->
 More on [here](https://github.com/M157q/m157q.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 </td></tr></table>
