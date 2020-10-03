@@ -2,7 +2,7 @@
 
 ### Recent contributions
 <!-- recent_contributions starts -->
-* [heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome) - 2020-09-30
+* [heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome) - 2020-10-03
 * [heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver) - 2020-09-30
 * [zdict/zdict](https://github.com/zdict/zdict) - 2020-09-29
 * [M157q/sgl](https://github.com/M157q/sgl) - 2020-09-29
