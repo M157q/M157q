@@ -2,9 +2,9 @@
 
 ### Recent contributions
 <!-- recent_contributions starts -->
+* [zdict/zdict](https://github.com/zdict/zdict) - 2020-10-11
 * [heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome) - 2020-10-08
 * [M157q/m157q.github.io](https://github.com/M157q/m157q.github.io) - 2020-10-06
-* [zdict/zdict](https://github.com/zdict/zdict) - 2020-10-06
 * [heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver) - 2020-09-30
 * [M157q/sgl](https://github.com/M157q/sgl) - 2020-09-29
 <!-- recent_contributions ends -->
@@ -24,11 +24,11 @@ More on [blog.m157q.tw](https://blog.m157q.tw/)
 
 ### TIL
 <!-- tils starts -->
+* [A Beginner’s Guide to Git — What is a Changelog and How to Generate it](https://github.com/M157q/m157q.github.io/issues/1213) - 2020-10-11
 * [How can one change the timestamp of an old commit in Git? - Stack Overflow](https://github.com/M157q/m157q.github.io/issues/1212) - 2020-10-11
 * [四年之後再讀《人月神話》](https://github.com/M157q/m157q.github.io/issues/1211) - 2020-10-07
 * [給沒有夢想的人的職涯指南 – 糖霜與西裝](https://github.com/M157q/m157q.github.io/issues/1210) - 2020-09-28
 * [為什麼紙吸管總是插不進去，但塑膠吸管可以？ - UniMath](https://github.com/M157q/m157q.github.io/issues/1209) - 2020-09-26
-* [Tools of Titans](https://github.com/M157q/m157q.github.io/issues/1208) - 2020-09-25
 <!-- tils ends -->
 More on [here](https://github.com/M157q/m157q.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 </td></tr></table>
