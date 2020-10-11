@@ -24,11 +24,11 @@ More on [blog.m157q.tw](https://blog.m157q.tw/)
 
 ### TIL
 <!-- tils starts -->
+* [How can one change the timestamp of an old commit in Git? - Stack Overflow](https://github.com/M157q/m157q.github.io/issues/1212) - 2020-10-11
 * [四年之後再讀《人月神話》](https://github.com/M157q/m157q.github.io/issues/1211) - 2020-10-07
 * [給沒有夢想的人的職涯指南 – 糖霜與西裝](https://github.com/M157q/m157q.github.io/issues/1210) - 2020-09-28
 * [為什麼紙吸管總是插不進去，但塑膠吸管可以？ - UniMath](https://github.com/M157q/m157q.github.io/issues/1209) - 2020-09-26
 * [Tools of Titans](https://github.com/M157q/m157q.github.io/issues/1208) - 2020-09-25
-* [Building a TRUE 4k home cinema projector (it’s awesome) - YouTube](https://github.com/M157q/m157q.github.io/issues/1207) - 2020-09-15
 <!-- tils ends -->
 More on [here](https://github.com/M157q/m157q.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 </td></tr></table>
