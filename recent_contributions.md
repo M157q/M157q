@@ -3,12 +3,12 @@
 All <!-- recent_contributions_count starts -->8<!-- recent_contributions_count ends --> of my recent contributions, ordered by the date DESC.
 
 <!-- recent_contributions starts -->
+* **[M157q/m157q.github.io](https://github.com/M157q/m157q.github.io)** - 2020-10-12
+<br>Just another blog.
 * **[zdict/zdict](https://github.com/zdict/zdict)** - 2020-10-11
 <br>The last online dictionary framework you need. (?)
 * **[heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome)** - 2020-10-08
 <br>Run (headless) Google Chrome on Heroku
-* **[M157q/m157q.github.io](https://github.com/M157q/m157q.github.io)** - 2020-10-06
-<br>Just another blog.
 * **[heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver)** - 2020-09-30
 <br>Installs chromedriver in a Heroku slug
 * **[M157q/sgl](https://github.com/M157q/sgl)** - 2020-09-29
