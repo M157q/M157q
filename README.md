@@ -24,11 +24,11 @@ More on [blog.m157q.tw](https://blog.m157q.tw/)
 
 ### TIL
 <!-- tils starts -->
+* [諾貝爾獎金119年都花不完，比丁蟹還厲害的諾貝爾基金會倒底是怎麼投資的？ | T客邦](https://github.com/M157q/m157q.github.io/issues/1214) - 2020-10-13
 * [A Beginner’s Guide to Git — What is a Changelog and How to Generate it](https://github.com/M157q/m157q.github.io/issues/1213) - 2020-10-11
 * [How can one change the timestamp of an old commit in Git? - Stack Overflow](https://github.com/M157q/m157q.github.io/issues/1212) - 2020-10-11
 * [四年之後再讀《人月神話》](https://github.com/M157q/m157q.github.io/issues/1211) - 2020-10-07
 * [給沒有夢想的人的職涯指南 – 糖霜與西裝](https://github.com/M157q/m157q.github.io/issues/1210) - 2020-09-28
-* [為什麼紙吸管總是插不進去，但塑膠吸管可以？ - UniMath](https://github.com/M157q/m157q.github.io/issues/1209) - 2020-09-26
 <!-- tils ends -->
 More on [here](https://github.com/M157q/m157q.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 </td></tr></table>
