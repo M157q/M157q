@@ -3,8 +3,8 @@
 ### Recent contributions
 <!-- recent_contributions starts -->
 * [M157q/m157q.github.io](https://github.com/M157q/m157q.github.io) - 2020-10-19
+* [zdict/zdict](https://github.com/zdict/zdict) - 2020-10-19
 * [heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome) - 2020-10-18
-* [zdict/zdict](https://github.com/zdict/zdict) - 2020-10-11
 * [heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver) - 2020-09-30
 * [M157q/sgl](https://github.com/M157q/sgl) - 2020-09-29
 <!-- recent_contributions ends -->
@@ -24,11 +24,11 @@ More on [blog.m157q.tw](https://blog.m157q.tw/)
 
 ### TIL
 <!-- tils starts -->
+* [ChhoeTaigi 找台語](https://github.com/M157q/m157q.github.io/issues/1218) - 2020-10-19
 * [But what about passion? - DEV](https://github.com/M157q/m157q.github.io/issues/1217) - 2020-10-19
 * [星期五要不要部署？ | Complete Think](https://github.com/M157q/m157q.github.io/issues/1216) - 2020-10-18
 * [TIL: 分析癱瘓 (analysis paralysis)](https://github.com/M157q/m157q.github.io/issues/1215) - 2020-10-17
 * [諾貝爾獎金119年都花不完，比丁蟹還厲害的諾貝爾基金會倒底是怎麼投資的？ | T客邦](https://github.com/M157q/m157q.github.io/issues/1214) - 2020-10-13
-* [A Beginner’s Guide to Git — What is a Changelog and How to Generate it](https://github.com/M157q/m157q.github.io/issues/1213) - 2020-10-11
 <!-- tils ends -->
 More on [here](https://github.com/M157q/m157q.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 </td></tr></table>
