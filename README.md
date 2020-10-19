@@ -24,11 +24,11 @@ More on [blog.m157q.tw](https://blog.m157q.tw/)
 
 ### TIL
 <!-- tils starts -->
+* [走入優秀和多元競爭力的背光處──被頂大魔咒困住的年輕人們 - 報導者 The Reporter](https://github.com/M157q/m157q.github.io/issues/1219) - 2020-10-19
 * [ChhoeTaigi 找台語](https://github.com/M157q/m157q.github.io/issues/1218) - 2020-10-19
 * [But what about passion? - DEV](https://github.com/M157q/m157q.github.io/issues/1217) - 2020-10-19
 * [星期五要不要部署？ | Complete Think](https://github.com/M157q/m157q.github.io/issues/1216) - 2020-10-18
 * [TIL: 分析癱瘓 (analysis paralysis)](https://github.com/M157q/m157q.github.io/issues/1215) - 2020-10-17
-* [諾貝爾獎金119年都花不完，比丁蟹還厲害的諾貝爾基金會倒底是怎麼投資的？ | T客邦](https://github.com/M157q/m157q.github.io/issues/1214) - 2020-10-13
 <!-- tils ends -->
 More on [here](https://github.com/M157q/m157q.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 </td></tr></table>
