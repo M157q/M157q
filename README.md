@@ -24,11 +24,11 @@ More on [blog.m157q.tw](https://blog.m157q.tw/)
 
 ### TIL
 <!-- tils starts -->
+* [Common Information Model (electricity) - Wikipedia](https://github.com/M157q/m157q.github.io/issues/1224) - 2020-10-25
 * [Bell–LaPadula model - Wikipedia](https://github.com/M157q/m157q.github.io/issues/1223) - 2020-10-25
 * [HATEOAS - Wikipedia](https://github.com/M157q/m157q.github.io/issues/1222) - 2020-10-25
 * [BERT Explained: State of the art language model for NLP | by Rani Horev | Towards Data Science](https://github.com/M157q/m157q.github.io/issues/1221) - 2020-10-25
 * [泰國民主怎麼了？ | 故事 StoryStudio](https://github.com/M157q/m157q.github.io/issues/1220) - 2020-10-20
-* [走入優秀和多元競爭力的背光處──被頂大魔咒困住的年輕人們 - 報導者 The Reporter](https://github.com/M157q/m157q.github.io/issues/1219) - 2020-10-19
 <!-- tils ends -->
 More on [here](https://github.com/M157q/m157q.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 </td></tr></table>
