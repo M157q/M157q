@@ -5,7 +5,7 @@ All <!-- recent_contributions_count starts -->8<!-- recent_contributions_count e
 <!-- recent_contributions starts -->
 * **[M157q/m157q.github.io](https://github.com/M157q/m157q.github.io)** - 2020-10-26
 <br>Just another blog.
-* **[zdict/zdict](https://github.com/zdict/zdict)** - 2020-10-24
+* **[zdict/zdict](https://github.com/zdict/zdict)** - 2020-10-26
 <br>The last online dictionary framework you need. (?)
 * **[heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome)** - 2020-10-18
 <br>Run (headless) Google Chrome on Heroku
