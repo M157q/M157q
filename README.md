@@ -24,11 +24,11 @@ More on [blog.m157q.tw](https://blog.m157q.tw/)
 
 ### TIL
 <!-- tils starts -->
+* [矽谷資深女工程師 Lucy-千萬台幣的金手銬：矽谷工程師永無止盡的老鼠賽跑](https://github.com/M157q/m157q.github.io/issues/1227) - 2020-11-16
 * [東京證交所史上最嚴重大當機深度剖析 | iThome](https://github.com/M157q/m157q.github.io/issues/1226) - 2020-10-30
 * [你的REST不是REST？ | iThome](https://github.com/M157q/m157q.github.io/issues/1225) - 2020-10-26
 * [Common Information Model (electricity) - Wikipedia](https://github.com/M157q/m157q.github.io/issues/1224) - 2020-10-25
 * [Bell–LaPadula model - Wikipedia](https://github.com/M157q/m157q.github.io/issues/1223) - 2020-10-25
-* [HATEOAS - Wikipedia](https://github.com/M157q/m157q.github.io/issues/1222) - 2020-10-25
 <!-- tils ends -->
 More on [here](https://github.com/M157q/m157q.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 </td></tr></table>
