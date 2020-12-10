@@ -2,10 +2,10 @@
 
 ### Recent contributions
 <!-- recent_contributions starts -->
+* [heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome) - 2020-12-10
 * [M157q/m157q.github.io](https://github.com/M157q/m157q.github.io) - 2020-12-07
 * [zdict/zdict](https://github.com/zdict/zdict) - 2020-12-04
 * [heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver) - 2020-11-27
-* [heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome) - 2020-11-20
 * [M157q/sgl](https://github.com/M157q/sgl) - 2020-09-29
 <!-- recent_contributions ends -->
 More [recent contributions](https://github.com/M157q/M157q/blob/main/recent_contributions.md)
