@@ -24,11 +24,11 @@ More on [blog.m157q.tw](https://blog.m157q.tw/)
 
 ### TIL
 <!-- tils starts -->
+* [CentOS: 永远有多远就离它多远 | feng.si](https://github.com/M157q/m157q.github.io/issues/1236) - 2020-12-13
 * [Garuda Linux Review: Pure Arch With GUI Tools and Good Looks](https://github.com/M157q/m157q.github.io/issues/1235) - 2020-12-12
 * [新創工程師的中年危機：滿盤皆輸，我還剩下什麼？ – 台灣工程師的矽谷故事](https://github.com/M157q/m157q.github.io/issues/1234) - 2020-12-11
 * [SchoolOfSRE](https://github.com/M157q/m157q.github.io/issues/1233) - 2020-12-09
 * [「楊桃豆」是優質植物蛋白質　有助改善心血管、腸胃功能](https://github.com/M157q/m157q.github.io/issues/1232) - 2020-11-30
-* [The Few, the Tired, the Open Source Coders | WIRED](https://github.com/M157q/m157q.github.io/issues/1231) - 2020-11-21
 <!-- tils ends -->
 More on [here](https://github.com/M157q/m157q.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 </td></tr></table>
