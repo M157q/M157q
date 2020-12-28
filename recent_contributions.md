@@ -5,7 +5,7 @@ All <!-- recent_contributions_count starts -->8<!-- recent_contributions_count e
 <!-- recent_contributions starts -->
 * **[M157q/m157q.github.io](https://github.com/M157q/m157q.github.io)** - 2020-12-28
 <br>Just another blog.
-* **[zdict/zdict](https://github.com/zdict/zdict)** - 2020-12-26
+* **[zdict/zdict](https://github.com/zdict/zdict)** - 2020-12-28
 <br>The last online dictionary framework you need. (?)
 * **[heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver)** - 2020-12-21
 <br>Installs chromedriver in a Heroku slug
