@@ -7,7 +7,7 @@ All <!-- recent_contributions_count starts -->8<!-- recent_contributions_count e
 <br>Just another blog.
 * **[zdict/zdict](https://github.com/zdict/zdict)** - 2020-12-29
 <br>The last online dictionary framework you need. (?)
-* **[heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver)** - 2020-12-21
+* **[heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver)** - 2020-12-29
 <br>Installs chromedriver in a Heroku slug
 * **[heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome)** - 2020-12-10
 <br>Run (headless) Google Chrome on Heroku
