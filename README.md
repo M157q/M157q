@@ -24,11 +24,11 @@ More on [blog.m157q.tw](https://blog.m157q.tw/)
 
 ### TIL
 <!-- tils starts -->
+* [Leaving GitHub - muanchiou](https://github.com/M157q/m157q.github.io/issues/1245) - 2021-01-06
 * [2020 | Medium](https://github.com/M157q/m157q.github.io/issues/1244) - 2020-12-31
 * [GIT Tips and Tricks to Improve your GIT Workflow | by Ravi | codeburst](https://github.com/M157q/m157q.github.io/issues/1243) - 2020-12-28
 * [【專為工程師設計的交友軟體】不看臉和身材，VSinder 主打用「程式碼」篩選對象 | TechOrange](https://github.com/M157q/m157q.github.io/issues/1242) - 2020-12-23
 * [駭客將電腦的記憶體變成臨時 Wi-Fi，成功將資料從網路隔絕環境洩露 | TechNews 科技新報](https://github.com/M157q/m157q.github.io/issues/1241) - 2020-12-21
-* [矽谷資深女工程師 Lucy-大概是這樣](https://github.com/M157q/m157q.github.io/issues/1240) - 2020-12-15
 <!-- tils ends -->
 More on [here](https://github.com/M157q/m157q.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 </td></tr></table>
