@@ -3,10 +3,10 @@
 All <!-- recent_contributions_count starts -->8<!-- recent_contributions_count ends --> of my recent contributions, ordered by the date DESC.
 
 <!-- recent_contributions starts -->
+* **[zdict/zdict](https://github.com/zdict/zdict)** - 2021-01-20
+<br>The last online dictionary framework you need. (?)
 * **[heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome)** - 2021-01-17
 <br>Run (headless) Google Chrome on Heroku
-* **[zdict/zdict](https://github.com/zdict/zdict)** - 2021-01-15
-<br>The last online dictionary framework you need. (?)
 * **[M157q/m157q.github.io](https://github.com/M157q/m157q.github.io)** - 2021-01-11
 <br>Just another blog.
 * **[heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver)** - 2021-01-09
