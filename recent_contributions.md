@@ -3,7 +3,7 @@
 All <!-- recent_contributions_count starts -->8<!-- recent_contributions_count ends --> of my recent contributions, ordered by the date DESC.
 
 <!-- recent_contributions starts -->
-* **[zdict/zdict](https://github.com/zdict/zdict)** - 2021-01-26
+* **[zdict/zdict](https://github.com/zdict/zdict)** - 2021-01-27
 <br>The last online dictionary framework you need. (?)
 * **[M157q/m157q.github.io](https://github.com/M157q/m157q.github.io)** - 2021-01-25
 <br>Just another blog.
