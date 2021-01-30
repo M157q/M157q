@@ -24,11 +24,11 @@ More on [blog.m157q.tw](https://blog.m157q.tw/)
 
 ### TIL
 <!-- tils starts -->
+* [🏆 The Top 100 Developer Tools of 2020 | StackShare](https://github.com/M157q/m157q.github.io/issues/1248) - 2021-01-30
 * [GameStop 之亂 — 華爾街的川普時刻 – 科技島讀](https://github.com/M157q/m157q.github.io/issues/1247) - 2021-01-28
 * [三氯蔗糖](https://github.com/M157q/m157q.github.io/issues/1246) - 2021-01-23
 * [Leaving GitHub - muanchiou](https://github.com/M157q/m157q.github.io/issues/1245) - 2021-01-06
 * [2020 | Medium](https://github.com/M157q/m157q.github.io/issues/1244) - 2020-12-31
-* [GIT Tips and Tricks to Improve your GIT Workflow | by Ravi | codeburst](https://github.com/M157q/m157q.github.io/issues/1243) - 2020-12-28
 <!-- tils ends -->
 More on [here](https://github.com/M157q/m157q.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 </td></tr></table>
