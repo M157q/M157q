@@ -24,11 +24,11 @@ More on [blog.m157q.tw](https://blog.m157q.tw/)
 
 ### TIL
 <!-- tils starts -->
+* [AIT前處長司徒文：台灣綜合實力堅強　台灣人應對自己國家更有信心 | 台灣英文新聞 | 2019/02/20](https://github.com/M157q/m157q.github.io/issues/1253) - 2021-01-31
 * [WebRTC現在已經成為W3C和IETF的標準 | iThome](https://github.com/M157q/m157q.github.io/issues/1251) - 2021-01-30
 * [CVE-2021-3156: Heap-Based Buffer Overflow in Sudo (Baron Samedit) | Qualys Security Blog](https://github.com/M157q/m157q.github.io/issues/1250) - 2021-01-30
 * [GitHub - nelhage/reptyr: Reparent a running program to a new terminal](https://github.com/M157q/m157q.github.io/issues/1249) - 2021-01-30
 * [🏆 The Top 100 Developer Tools of 2020 | StackShare](https://github.com/M157q/m157q.github.io/issues/1248) - 2021-01-30
-* [GameStop 之亂 — 華爾街的川普時刻 – 科技島讀](https://github.com/M157q/m157q.github.io/issues/1247) - 2021-01-28
 <!-- tils ends -->
 More on [here](https://github.com/M157q/m157q.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 </td></tr></table>
